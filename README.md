@@ -7,6 +7,12 @@ The goal of this project is to demonstrate how **AI agents can collaborate to pr
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Open the AI Multi-Agent Chatbot](https://ai-agent-chatbot-5wikjkybne299swsdbxxrn.streamlit.app/)**
+
+---
+
 # 🚀 Features
 
 - Multi-agent architecture
