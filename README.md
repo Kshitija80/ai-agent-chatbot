@@ -45,15 +45,18 @@ Formats the explanation and code into a structured chatbot response.
 
 ## Chatbot Interface
 
-![Chatbot UI](images/Screenshot 2026-03-14 021410.png)
+![Chatbot UI](images/screenshot1.png)
 
 ## Agent Pipeline Working
 
-![Agent Processing](images/Screenshot 2026-03-14 021136.png)
+![Agent Processing](images/screenshot2.png)
 
 ## Example Response
 
-![Chatbot Response](images/Screenshot 2026-03-14 021156.png images/Screenshot 2026-03-14 021211.png images/Screenshot 2026-03-14 021226.png images/Screenshot 2026-03-14 021347.png)
+![Chatbot Response](images/screenshot3.png)
+![Chatbot Response](images/screenshot4.png)
+![Chatbot Response](images/screenshot5.png)
+![Chatbot Response](images/screenshot6.png)
 
 ---
 
