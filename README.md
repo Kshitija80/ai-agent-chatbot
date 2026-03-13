@@ -9,14 +9,14 @@ The goal of this project is to demonstrate how **AI agents can collaborate to pr
 
 # 🚀 Features
 
-* Multi-agent architecture
-* ChatGPT-style chatbot interface
-* Topic detection
-* AI explanation generation
-* Automatic code example generation
-* Response formatting
-* Conversation memory
-* Clean Streamlit UI
+- Multi-agent architecture
+- ChatGPT-style chatbot interface
+- Topic detection
+- AI explanation generation
+- Automatic code example generation
+- Response formatting
+- Conversation memory
+- Clean Streamlit UI
 
 ---
 
@@ -45,15 +45,15 @@ Formats the explanation and code into a structured chatbot response.
 
 ## Chatbot Interface
 
-![Chatbot UI](images/screenshot1.png)
+![Chatbot UI](images/Screenshot 2026-03-14 021410.png)
 
 ## Agent Pipeline Working
 
-![Agent Processing](images/screenshot2.png)
+![Agent Processing](images/Screenshot 2026-03-14 021136.png)
 
 ## Example Response
 
-![Chatbot Response](images/screenshot3.png)
+![Chatbot Response](images/Screenshot 2026-03-14 021156.png images/Screenshot 2026-03-14 021211.png images/Screenshot 2026-03-14 021226.png images/Screenshot 2026-03-14 021347.png)
 
 ---
 
@@ -92,20 +92,20 @@ GROQ_API_KEY="your_api_key"
 
 # 🛠️ Technologies Used
 
-* Python
-* Streamlit
-* Groq LLM
-* Multi-Agent Architecture
+- Python
+- Streamlit
+- Groq LLM
+- Multi-Agent Architecture
 
 ---
 
 # 📌 Future Improvements
 
-* Internet search agent
-* Streaming responses (typing effect)
-* File upload + AI analysis
-* Multiple model selection
-* Chat history export
+- Internet search agent
+- Streaming responses (typing effect)
+- File upload + AI analysis
+- Multiple model selection
+- Chat history export
 
 ---
 
